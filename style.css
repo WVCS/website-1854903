@@ -1,5 +1,5 @@
 body {
-  backround: orange
+  backround: white;
 }
 ul{
   list-style-type:none;
@@ -11,23 +11,25 @@ li{
   float:left;
 }
 li a{
-  color:blue;
+  color:orange;
   padding:50px;
   font-family: "Papyrus", Fantasy;
   text-decoration-line: none;
 }
-li a:hover{
-  backround-color:white;
+
+li a: hover {
+  backround-color: orange;
 }
+
 h2{
-  color: blue;
+  color: orange;
   font-size: 500%;
   letter-spacing; 4px;
   text-decoration-line: underline;
 }
 p{
-  color: white:
-    font-size: 300%;
+  color: orange;
+  font-size: 200%;
 }
 img{
   width: 50%;
