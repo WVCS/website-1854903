@@ -1,5 +1,5 @@
 body {
-  backround: white;
+  backround:white;
 }
 ul{
   list-style-type:none;
@@ -13,27 +13,25 @@ li{
 li a{
   color:orange;
   padding:50px;
-  font-family: "Papyrus", Fantasy;
-  text-decoration-line: none;
+  font-family:"Papyrus", Fantasy;
+  text-decoration-line:none;
 }
-
-li a: hover {
-  backround-color: orange;
+li a:hover {
+  backround-color:blue;
 }
-
 h2{
-  color: orange;
-  font-size: 500%;
-  letter-spacing; 4px;
-  text-decoration-line: underline;
+  color:orange;
+  font-size:500%;
+  letter-spacing;4px;
+  text-decoration-line:underline;
 }
 p{
-  color: orange;
+  color:orange;
   font-size: 200%;
 }
 img{
   width: 50%;
-  border: dashed yellow;
+  border: dashed orange;
 }
 iframe{
   border: dashed
